@@ -1,0 +1,73 @@
+.centrer 
+ {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }
+
+ #conteneur
+{
+    display: flex;
+    justify-content: center;
+
+}
+
+#conteneur2
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.imageflottante
+{
+    float: right;
+}
+
+h1
+{
+  color: white;
+  text-align: center;
+  border: 3px #EDEDED solid;
+  border-radius: 10px;
+  border-width: thin; 
+  width: 85%;
+  margin: 85px
+}
+
+h3
+{
+  color: grey;
+  background-color: #EDEDED;
+  text-align: space-between; 
+  border: 1px grey solid;
+}
+
+p , a
+{
+  text-align: center;
+  color: grey;
+}
+
+div
+{
+  text-align: right;
+}
+
+footer
+{
+  background-color: #EDEDED;
+}
+
+a:visited 
+{
+    color: black; 
+}
+
+a:hover
+{
+  text-decoration: underline;
+}
+
+
+
+
